@@ -503,6 +503,7 @@ section {
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
+  height: 100%;
   width: auto;
   min-height: 100vh;
   background: url("../img/G&E.jpg") top center;
