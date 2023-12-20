@@ -505,14 +505,14 @@ section {
 .hero {
   height: 100%;
   width: auto;
-  min-height: 100vh;
+/*   min-height: 100vh; */
   background: url("../img/G&E.jpg") top center;
   background-position: 100% 0%;
   /*background-repeat: revert;*/
-  background-size: 100%;
-  position: relative;
-  padding: 150px 0;
-  z-index: 3;
+/*   background-size: 100%; */
+/*   position: relative; */
+/*   padding: 150px 0; */
+/*   z-index: 3; */
 
 }
 
